@@ -1,4 +1,5 @@
 Retail Sales and Profitability Analysis using SQL, Python and Power BI
+
 Project Overview
 
 This project focuses on analyzing retail sales data to identify business insights related to sales performance, profitability, customer behavior, product performance, and regional trends.
@@ -6,20 +7,25 @@ This project focuses on analyzing retail sales data to identify business insight
 The project was developed using SQL, Python, and Power BI to perform end-to-end data analysis and dashboard reporting.
 
 Objectives
+
 Analyze overall sales and profit performance
 Identify top-performing products and categories
 Understand customer purchasing behavior
 Perform regional and segment-wise analysis
 Analyze the impact of discounts on profitability
 Create interactive dashboards for business decision-making
+
 Tools and Technologies Used
+
 Tool	Purpose
+
 Excel	Dataset handling
 MySQL	Data analysis using SQL
 Python	Exploratory Data Analysis
 Pandas	Data manipulation
 Matplotlib	Data visualization
 Power BI	Interactive dashboard creation
+
 Dataset Information
 
 The dataset contains retail order transactions including:
@@ -100,20 +106,25 @@ Orders KPI
 Profit Margin KPI
 Category-wise Sales
 Region-wise Sales
+
 2. Time Analysis
 Monthly Sales Trend
 Monthly Profit Trend
 Year-wise Performance
+
 3. Product and Customer Analysis
 Top Products
 Segment Analysis
 Top Customers
 Sub-category Profitability
+
 4. Profitability Analysis
 Discount vs Profit
 Profit by Region
 Loss-making Sub-categories
+
 Key Business Insights
+
 Certain categories generated high sales but lower profitability.
 High discounts negatively impacted profit margins.
 Specific regions contributed significantly to overall revenue.
@@ -121,6 +132,7 @@ A small group of customers generated a large percentage of sales.
 Some sub-categories consistently produced losses.
 
 Project Workflow
+
 Excel Dataset
       ↓
 SQL Analysis
@@ -132,6 +144,7 @@ Power BI Dashboard
 Business Insights
 
 Screenshots
+
 Executive Overview Dashboard
 
 <img width="787" height="586" alt="Screenshot 2026-05-19 161014" src="https://github.com/user-attachments/assets/99342fd5-7e59-4b2e-a8b6-cfd0b532c990" />
